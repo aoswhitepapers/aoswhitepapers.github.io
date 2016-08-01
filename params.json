@@ -1,0 +1,6 @@
+{
+  "name": "Unofficial Apple Management Whitepapers",
+  "tagline": "Whitepapers for open source tools used to manage Apple devices, primarily security compliance-focused",
+  "body": "### Evaluating and Approving Open Source Tools for Mac Management\r\n\r\nThis GitHub organization provides documentation on open source tools that provide Mac management. Each whitepaper aspires to respond to requests by an internal IT security team for 'the security whitepaper' when they are asked to allow use of an open source tool. We invite everyone, especially the open source project collaborators themselves, to file issues on the individual repositories, or send pull requests. The [template](https://github.com/aoswhitepapers/template) repository contains some guidelines and references that were used when devising the original set (for Munki, Sal, Crypt, and osquery), but they are not firm rules to follow, just resources. Please contact @arubdesu to create a new repository and add owner/collaborators for inclusion of your tool/documentation.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
